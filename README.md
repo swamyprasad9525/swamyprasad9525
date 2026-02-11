@@ -1,91 +1,120 @@
-# 👋 Hi, I'm Kollu Swamy Prasad
+<!-- ================= HEADER ================= -->
 
-🎓 B.Tech CSE Student @ Lovely Professional University  
-💻 Full-Stack Developer in Progress | 🚀 Problem Solver | 🌱 Lifelong Learner  
+<h1 align="center">Hi 👋, I'm Kollu Swamy Prasad</h1>
 
-🌐 **Portfolio:** https://kollu-swamy-prasad.vercel.app/
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;React+%7C+Node+%7C+MongoDB;Problem+Solver+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+</p>
 
----
-
-## 🚀 About Me
-- 🔭 Building **real-world web applications** with modern tech stacks  
-- 🌱 Currently learning **advanced backend, system design & cloud**  
-- 👯 Open to **collaboration on impactful full-stack projects**  
-- 💬 Happy to help **students & beginner developers**  
-- ⚡ Strong interest in **clean UI, scalable backend & performance**  
+<p align="center">
+  🌐 <a href="https://kollu-swamy-prasad.vercel.app/">Portfolio</a> •
+  💼 <a href="https://linkedin.com/in/kollu-swamy-prasad-219ba3297">LinkedIn</a> •
+  🧑‍💻 <a href="https://github.com/swamyprasad9525">GitHub</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🧊 About Me
 
-### 💻 Languages
-C++ • C • JavaScript • Python • Java • PHP  
+<div align="center">
 
-### ⚙️ Frameworks & Libraries
-React.js • Node.js • Express.js • Tailwind CSS  
+🎓 B.Tech CSE @ Lovely Professional University  
+💻 Passionate about **Full-Stack Development & Scalable Systems**  
+🚀 Building **real-world web apps with modern tech**  
+🤝 Open to **collaboration & internships**  
+💬 Always happy to **help learners grow**
 
-### 🗄️ Databases & Tools
-MongoDB • MySQL • Git • GitHub • Postman • Linux • Docker • Figma  
-
-### 🧠 Soft Skills
-Creative Thinking • Detail-Oriented • Adaptable • Observant  
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Tech Stack
 
-### 🛒 Swamy Slabs – Stone Products E-Commerce  
-- Built **React frontend + Node/Express backend**  
-- Managed **product catalog, customer queries & order requests**  
-- Increased **sales enquiries by ~10% after launch**  
-**Tech:** React, Node.js, Express, MongoDB  
+## 💻 Languages
+<p align="center">
+C++ • C • JavaScript • Python • Java • PHP
+</p>
 
-### 🏥 RMP Minds – Medical Assistance Web App  
-- Collects **health inputs & symptoms** to give basic suggestions  
-- Implemented **frontend (HTML/CSS/JS) + PHP backend**  
-- Designed for **quick health assessment with simple UI**  
-**Tech:** HTML, CSS, JavaScript, PHP  
+## ⚙️ Frameworks
+<p align="center">
+React • Node.js • Express • Tailwind CSS
+</p>
 
----
-
-## 📚 Education
-🎓 **B.Tech – Computer Science & Engineering**  
-Lovely Professional University — CGPA: **7.42** :contentReference[oaicite:0]{index=0}  
+## 🗄️ Databases & Tools
+<p align="center">
+MongoDB • MySQL • Git • Docker • Linux • Postman • Figma
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🧠 Solved **150+ problems on GeeksforGeeks**  
-- 💻 Earned **HackerRank badges in Problem Solving & Java**  
-- 🏅 Completed **NPTEL Cloud Computing Certification**  
-- 🎯 Led **technical development of RMP Minds project**  
+# 📈 Skill Progress
+
+<p align="center">
+
+**Frontend**  
+`██████████░░ 80%`
+
+**Backend**  
+`███████░░░░ 65%`
+
+**DSA & Problem Solving**  
+`████████░░░ 75%`
+
+**DevOps & Cloud (Learning)**  
+`████░░░░░░░ 35%`
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=swamyprasad9525&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+# 🚀 Featured Projects
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=swamyprasad9525&theme=tokyonight&hide_border=true)
+### 🛒 Swamy Slabs — E-Commerce Platform
+- React + Node/Express + MongoDB  
+- Product catalog, queries & order handling  
+- 📈 Boosted business enquiries by **~10%**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swamyprasad9525&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🌐 Connect With Me
-- 🌍 Portfolio: https://kollu-swamy-prasad.vercel.app/  
-- 💼 LinkedIn: https://linkedin.com/in/kollu-swamy-prasad-219ba3297  
-- 🧑‍💻 GitHub: https://github.com/swamyprasad9525  
-- 📧 Email: kolliswami784@gmail.com  
+### 🏥 RMP Minds — Medical Assistance Web App
+- Health input analysis with simple UI  
+- HTML/CSS/JS frontend + PHP backend  
+- Quick **basic medical suggestions system**
 
 ---
 
-## 🎯 2026 Goals
-- ✅ Become a **job-ready Full-Stack Developer**  
-- ✅ Build **scalable production-level applications**  
-- ✅ Contribute to **Open Source projects**  
-- ✅ Strengthen **DSA, System Design & Cloud skills**  
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swamyprasad9525&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swamyprasad9525&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamyprasad9525&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-If you like my work, consider giving a ⭐ to my repositories.
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swamyprasad9525/swamyprasad9525/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+*(If snake not visible, I can generate workflow for you.)*
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become **industry-ready Full-Stack Developer**
+- ✅ Build **production-level scalable apps**
+- ✅ Contribute to **Open Source**
+- ✅ Master **DSA, System Design & Cloud**
+
+---
+
+# 🌙 Glass-Morphism Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff"/>
+</p>
