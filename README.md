@@ -14,7 +14,6 @@
 
 ---
 
-# 🧊 About Me
 
 <div align="center">
 
@@ -30,7 +29,6 @@
 
 ---
 
-# ⚡ Tech Stack
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff"/>
@@ -46,8 +44,6 @@
 <p align="center">MongoDB • MySQL • Git • Docker • Linux • Postman • Figma</p>
 
 ---
-
-# 📈 Skill Progress
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928dab&height=120&section=header&text=Skill%20Progress&fontSize=28&fontColor=ffffff"/>
@@ -70,8 +66,6 @@
 </p>
 
 ---
-
-# 🚀 Featured Projects
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16222a,100:3a6073&height=120&section=header&text=Projects&fontSize=28&fontColor=ffffff"/>
@@ -101,16 +95,6 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/swamyprasad9525/swamyprasad9525/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🌙 Glass Footer
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff"/>
