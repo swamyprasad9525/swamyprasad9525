@@ -1,22 +1,24 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HEADER WITH BG ================= -->
 
-<h1 align="center">Hi 👋, I'm Kollu Swamy Prasad</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;React+%7C+Node+%7C+MongoDB;Problem+Solver+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kollu%20Swamy%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  🌐 <a href="https://kollu-swamy-prasad.vercel.app/">Portfolio</a> •
-  💼 <a href="https://linkedin.com/in/kollu-swamy-prasad-219ba3297">LinkedIn</a> •
-  🧑‍💻 <a href="https://github.com/swamyprasad9525">GitHub</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;React+%7C+Node+%7C+MongoDB;Problem+Solver+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+
+🌐 <a href="https://kollu-swamy-prasad.vercel.app/">Portfolio</a> •
+💼 <a href="https://linkedin.com/in/kollu-swamy-prasad-219ba3297">LinkedIn</a> •
+🧑‍💻 <a href="https://github.com/swamyprasad9525">GitHub</a>
+
+</div>
 
 ---
 
 # 🧊 About Me
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=120&section=header&text=About%20Me&fontSize=28&fontColor=ffffff"/>
 
 🎓 B.Tech CSE @ Lovely Professional University  
 💻 Passionate about **Full-Stack Development & Scalable Systems**  
@@ -30,24 +32,26 @@
 
 # ⚡ Tech Stack
 
-## 💻 Languages
-<p align="center">
-C++ • C • JavaScript • Python • Java • PHP
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff"/>
+</div>
 
-## ⚙️ Frameworks
-<p align="center">
-React • Node.js • Express • Tailwind CSS
-</p>
+### 💻 Languages
+<p align="center">C++ • C • JavaScript • Python • Java • PHP</p>
 
-## 🗄️ Databases & Tools
-<p align="center">
-MongoDB • MySQL • Git • Docker • Linux • Postman • Figma
-</p>
+### ⚙️ Frameworks
+<p align="center">React • Node.js • Express • Tailwind CSS</p>
+
+### 🗄️ Databases & Tools
+<p align="center">MongoDB • MySQL • Git • Docker • Linux • Postman • Figma</p>
 
 ---
 
 # 📈 Skill Progress
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928dab&height=120&section=header&text=Skill%20Progress&fontSize=28&fontColor=ffffff"/>
+</div>
 
 <p align="center">
 
@@ -68,6 +72,10 @@ MongoDB • MySQL • Git • Docker • Linux • Postman • Figma
 ---
 
 # 🚀 Featured Projects
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16222a,100:3a6073&height=120&section=header&text=Projects&fontSize=28&fontColor=ffffff"/>
+</div>
 
 ### 🛒 Swamy Slabs — E-Commerce Platform
 - React + Node/Express + MongoDB  
@@ -100,21 +108,10 @@ MongoDB • MySQL • Git • Docker • Linux • Postman • Figma
   <img src="https://raw.githubusercontent.com/swamyprasad9525/swamyprasad9525/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-*(If snake not visible, I can generate workflow for you.)*
-
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Become **industry-ready Full-Stack Developer**
-- ✅ Build **production-level scalable apps**
-- ✅ Contribute to **Open Source**
-- ✅ Master **DSA, System Design & Cloud**
-
----
-
-# 🌙 Glass-Morphism Footer
+# 🌙 Glass Footer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff"/>
 </p>
